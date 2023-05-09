@@ -5,3 +5,13 @@
 .navbar-brand {
   font-size: 35px;
 }
+
+.titulo {
+  color: white;
+}
+
+.custom-toggler {
+  background-color: white;
+  border-radius: 4px;
+  border: none;
+}
