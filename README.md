@@ -1,1 +1,5 @@
-# primerparcialtlp
+Descripción:
+En este portafolio encontrarás información de mis trabajos, mis recorridos y más. 
+Para ser más especifica, en el primer archivo denominado "index", cuento quien soy y qué hago. En el segundo archivo denominado "sobre mi" podemos ver el recorrido estudiantil y laboral que hice en mi corta vida. Luego en el tercer archivo tenemos a los proyectos, en donde muestro la empresa con la que trabajé como diseñadora gráfica ofreciendo mis servicios. Y ya en el ultimo archivo denominado "Contrátame" puedes contratarme o mejor dicho, contactarme, para que yo pueda ofrecerte mi ayuda en base a tus dudas o lo que desees. Además, podemos observar que en el repositorio hay una carpeta denominada imágenes, en donde almacené las imágenes que utilicé para cada archivo. También tenemos el archivo styles.css, en ella hice los respectivos estilos de manera "vanilla" de todos los archivos.
+
+Recursos que se utilizaron: HTML, CSS, Bootstrap, Font Awesome, JS.
